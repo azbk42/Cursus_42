@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cctype": "c",
+        "string.h": "c",
+        "functional": "c"
+    }
+}
