@@ -22,6 +22,5 @@ int	ft_lstsize(t_list *lst)
 		len++;
 		lst = lst->next;
 	}
-	
 	return (len);
 }

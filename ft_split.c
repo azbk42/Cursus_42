@@ -88,7 +88,7 @@ static char	**splitting(char **tab, char const *s, char c)
 
 char	**ft_split(char const *s, char c)
 {
-	char **tab;
+	char	**tab;
 
 	if (count_words(s, c) == 0)
 		return (ft_calloc(1, sizeof(char *)));
